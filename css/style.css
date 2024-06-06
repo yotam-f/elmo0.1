@@ -1,0 +1,48 @@
+body{
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.t{
+    margin: 0%;
+    height: 10%;
+    width: 100%;
+    background-color:rgb(68, 127, 140);
+    padding: 0;
+    padding-bottom: 0.1%; 
+    padding-top: 0.1%;    
+}
+
+.crgelCalim{
+    font-size: x-large;
+    text-align: center;
+    
+}
+a{
+    margin: 1%;
+    color: rgba(64, 64, 64, 0.73);
+    
+}
+
+.elmo{
+    text-decoration: none;
+    padding: 0.5%;
+}
+.sad_story{
+    text-decoration: none;
+    padding: 0.5%;
+}
+.about_us{
+    text-decoration: none;
+    padding: 0.5%;
+}
+
+.elmo:hover{
+    color: rgba(0, 0, 0, 0.73);
+}
+.sad_story:hover{
+    color: rgba(0, 0, 0, 0.73);
+}
+.about_us:hover{
+    color: rgba(0, 0, 0, 0.73);
+}
